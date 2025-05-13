@@ -1,5 +1,41 @@
 # Changelog
 
+## [0.28.12](https://github.com/scala-steward/orcus/compare/v0.28.12...v0.28.12) (2025-05-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* move derived methods to each companion object
+* remove some modules
+
+### Features
+
+* move the callback call into the delay function ([272a029](https://github.com/scala-steward/orcus/commit/272a029f0e9c501c01e6db87101dc0e6cebcf4dc))
+* move the callback call into the delay function ([73cfebe](https://github.com/scala-steward/orcus/commit/73cfebe2cd82ef9487449d1a092fca9a1323e632))
+* remove some modules ([f95640c](https://github.com/scala-steward/orcus/commit/f95640c7e1a1884ed620bfa4a92cd2475a29b95b))
+* scala3 ([b5c281e](https://github.com/scala-steward/orcus/commit/b5c281eb0d8d40d531309b9368994e99d66019c1))
+* scala3 ([6a6834b](https://github.com/scala-steward/orcus/commit/6a6834b791e169583e0252b10960b934b19d4650))
+
+
+### Bug Fixes
+
+* delete println ([e38c538](https://github.com/scala-steward/orcus/commit/e38c5385cc34fb6ef00a2127e11caad00e739746))
+* delete println ([28dc50a](https://github.com/scala-steward/orcus/commit/28dc50abe9641eb1993ae3bbbb28f8fc4956c8fe))
+* incorrect cancel handling ([06b880d](https://github.com/scala-steward/orcus/commit/06b880d726f0ec9a408b195536e329db0ccfd42c))
+* incorrect cancel handling ([910a9f7](https://github.com/scala-steward/orcus/commit/910a9f7ded42514ce8cea1c6867839b9b0a0e86f))
+* separate codecs for each scala version ([774020d](https://github.com/scala-steward/orcus/commit/774020d30a98e126f20bea6013efa70caa4b34fa))
+* separate codecs for each scala version ([bd41eff](https://github.com/scala-steward/orcus/commit/bd41eff455118a0d90f3421df5e38b677df63eeb))
+
+
+### Miscellaneous Chores
+
+* release 0.28.12 ([547b222](https://github.com/scala-steward/orcus/commit/547b22294493765972afe5d5e80269895164ad9e))
+
+
+### Code Refactoring
+
+* move derived methods to each companion object ([cbb4d5b](https://github.com/scala-steward/orcus/commit/cbb4d5b7c2256917181c55f2ef9506c16d31138c))
+
 ## [0.28.12](https://github.com/tkrs/orcus/compare/v0.28.11...v0.28.12) (2025-05-01)
 
 
